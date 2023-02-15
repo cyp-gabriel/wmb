@@ -1,8 +1,12 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/boonecabal/find-me-on-cm-b.svg)](https://www.codementor.io/@boonecabal?refer=badge)
 
-## v1.3
+## v1.4
 
 * Finished Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure
+
+## v1.3
+
+* Finished Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy
 
 ## v1.2
 

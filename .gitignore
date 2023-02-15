@@ -1,4 +1,6 @@
 */__pycache__/*
 */venv/*
 */keys/*
+*/logs/*
+*/instance/*
 .ipynb_checkpoints/*
